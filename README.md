@@ -47,11 +47,6 @@ portfolio/
   DCH.png         icon for David Courses Hub section
 ```
 
-## Note
-
-The images (developer.png, WP.png, DM.png, ALF.png, DCH.png) are not included
-in this repo. You need to add your own images with the same names, or change
-the image paths in the HTML file.
 
 ## Contact
 
