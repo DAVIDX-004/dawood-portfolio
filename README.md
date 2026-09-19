@@ -47,12 +47,6 @@ portfolio/
   DCH.png         icon for David Courses Hub section
 ```
 
-
-## Contact
-
-- Email: davidthewebexpert@gmail.com
-- Phone: +923170873100
-
 Anyone can Try it here:
 https://davidx-004.github.io/dawood-portfolio/
 
